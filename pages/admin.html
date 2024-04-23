@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>json</title>
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/css/bootstrap.min.css" rel="stylesheet"
+        integrity="sha384-EVSTQN3/azprG1Anm3QDgpJLIm9Nao0Yz1ztcQTwFspd3yD65VohhpuuCOmLASjC" crossorigin="anonymous">
+
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/js/bootstrap.bundle.min.js"
+        integrity="sha384-MrcW6ZMFYlzcLA8Nl+NtUVF0sA7MsXsP1UyJoMp4YLEuNSfAP+JcXn/tWtIaxVXM"
+        crossorigin="anonymous"></script>
+        <link rel="stylesheet" href="/css/style.css">
+
+</head>
+
+<body>
+    
+    <div id="navbar"></div>
+    <h1>welcome to admin page</h1>
+    <form id="form" class="w-50 m-auto" bodred="1px solid black">
+        <div class="mb-3">
+          <label for="title" class="form-label">title</label>
+          <input type="text" class="form-control" id="title" aria-describedby="emailHelp">
+        </div>
+        <div class="mb-3">
+          <label for="price" class="form-label">price</label>
+          <input type="number" class="form-control" id="price">
+        </div>
+        <select class="form-select" aria-label="Default select example" id="cate">
+            <option selected>traditional cloths</option>
+            <option value="sadi">sadi</option>
+            <option value="choli">choli</option>
+            <option value="gown">gown</option>
+          </select>
+        <div class="mb-3">
+            <label for="img" class="form-label">img</label>
+            <input type="url" class="form-control" id="img" aria-describedby="emailHelp">
+          </div>
+        <button type="submit" class="btn btn-primary">Submit</button>
+      </form>
+  
+</body>
+<script src="/js/admin.js" type="module"></script>
+</html>
