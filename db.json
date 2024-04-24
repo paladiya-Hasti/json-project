@@ -9,32 +9,33 @@
   ],
   "productsssss": [
     {
-      "id": "5fa4",
-      "title": "fghjk",
-      "price": "111",
-      "img": "https://avatars.mds.yandex.net/i?id=835f95dbdef35c6e0d566b556f68b3e0-3755415-images-thumbs&ref=rim&n=33&w=201&h=200",
+      "id": "81b4",
+      "title": "sdf",
+      "price": "1234",
+      "img": "https://avatars.mds.yandex.net/i?id=a03cc4d6632eb689c201fbf2f41c745637f41028-10638774-images-thumbs&n=13",
       "cate": "traditional cloths"
     },
     {
-      "id": "6674",
-      "title": "sarika",
-      "price": "60000",
-      "img": "https://avatars.mds.yandex.net/i?id=5d33af1aea21c9beb687bc4e7c46432d2775c002-9858868-images-thumbs&ref=rim&n=33&w=162&h=200",
-      "cate": "sadi"
+      "id": "b2e5",
+      "title": "qwer",
+      "price": "2345",
+      "img": "https://rare-gallery.com/uploads/posts/500367-flower.jpg",
+      "cate": "choli"
     },
     {
-      "id": "5e2d",
-      "title": "",
-      "price": "",
-      "img": "https://avatars.mds.yandex.net/i?id=a03cc4d6632eb689c201fbf2f41c745637f41028-10638774-images-thumbs&n=13",
-      "cate": "sadi"
+      "id": "34a8",
+      "title": "erf",
+      "price": "234",
+      "img": "https://yandex.com/images/search?p=1&text=laptop&pos=22&rpt=simage&img_url=https%3A%2F%2Fprofnastil-moldova.com%2Fwp-content%2Fuploads%2F2022%2F02%2Fremont-noutbukov24.ru_.jpeg&lr=10555",
+      "cate": "gown"
     },
     {
-      "id": "8a7c",
-      "title": "asdfgh",
-      "price": "234567",
-      "img": "https://avatars.mds.yandex.net/i?id=a03cc4d6632eb689c201fbf2f41c745637f41028-10638774-images-thumbs&n=13",
+      "id": "d6c0",
+      "title": "asdf",
+      "price": "1234",
+      "img": "https://w.forfun.com/fetch/4f/4fc7a6a6fcb0b17678045ba18260ae77.jpeg",
       "cate": "traditional cloths"
     }
-  ]
+  ],
+  "cart": []
 }

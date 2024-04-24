@@ -8,29 +8,47 @@ h1{
     padding-top: 20px;
 }
 .logo{
-    width: 100px;
-    height: 100px;
+    width: 70px;
+    height: 70px;
     border-radius: 90px;
+}
+.navbar{
+    background-color: lightgrey;
+
+}
+.navbar-nav .nav-item a{
+    text-decoration: none;
+    color: black;
 }
 nav ul li a:hover{
     color: rgb(3, 3, 3);
     font-weight: 600;
+    box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px;
+    border-radius: 5px;
     
 }
 img{
-    width: 350px;
-    height: 300px;
+    width: 210px;
+    height: 210px;
+}
+.images{
+    width: 100px;
+    height: 100px;
 }
 #box{
     display: flex;
     flex-wrap: wrap;
-    width: 400px;
-    padding: 8px 20px;
-    height: 440px;
-    background-color: rgb(209, 191, 226);
-    box-shadow: rgba(0, 0, 0, 0.25) 0px 54px 55px, rgba(0, 0, 0, 0.12) 0px -12px 30px, rgba(0, 0, 0, 0.12) 0px 4px 6px, rgba(0, 0, 0, 0.17) 0px 12px 13px, rgba(0, 0, 0, 0.09) 0px -3px 5px;
+   }
+.box3{
+    margin: 30px ;
+    width: 20%;
+    text-align: center;
+    padding: 10px;
+    border-radius: 20px;
+    box-shadow: rgba(0, 0, 0, 0.25) 0px 25px 50px -12px;
+    margin: 20px auto;
+    background-color: rgb(191, 196, 226);
 }
-
 h2{
     text-align: center;
     padding: 5px;
@@ -45,9 +63,28 @@ h4{
     font-size: 20px;
     padding: 5px;
 }
-/* .box3{
-    width: 200px;
-    height: 300px;
+#form{
     padding: 20px;
-    margin: 10px;
-} */
+    border-radius: 20px;
+    box-shadow: rgba(50, 50, 93, 0.25) 0px 13px 27px -5px, rgba(0, 0, 0, 0.3) 0px 8px 16px -8px;
+    background-color: rgb(114, 148, 179);
+    color: #fff;
+}
+button{
+    background-color: rgb(101, 140, 184);
+    padding: 8px;
+    margin: 10px 10px;
+    border: none;
+    border-radius: 10px;
+    color: white;
+}
+del:hover{
+    color: white;
+    border: 1px solid red;
+    background-color: red;
+}
+.buy:hover{
+    color: white;
+    border: 1px solid green;
+    background-color: green;
+}

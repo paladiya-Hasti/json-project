@@ -1,7 +1,7 @@
 const postdata=(url,user)=>{
     fetch(url,{
         method:"POST",
-        headers:{"Content-Type":"Application/JSON"},
+        headers:{"Content-Type":"application/json"},
         body:JSON.stringify(user)
     })
 
